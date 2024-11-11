@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Seonho Kang I'm a new flutter developer.</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&size=38&pause=1000&color=000000&width=435&lines=Hi+I'm+Flutter+Developer+!;Thanks+for+visiting+GitHub" alt="Typing SVG" /></a></h1>
 <h3 align="center">A steady and passionate flutter developer from South Korea</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seonho99&show_icons=true&locale=en&layout=compact" alt="seonho99" /></p>
