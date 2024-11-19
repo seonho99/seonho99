@@ -7,7 +7,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seonho99&show_icons=true&locale=en" alt="seonho99" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seonho99&label=Profile%20views&color=0e75b6&style=flat" alt="seonho99" /> </p>
 
 - 🔭 I’m currently working on project [LottoBlog](https://github.com/seonho99/lottoblog)
 
