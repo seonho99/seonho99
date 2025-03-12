@@ -13,5 +13,12 @@
 - 💬 Ask me about **Flutter, Firebase**
       
 - 📫 How to reach me **pandapad10@gmail.com**
-      
+     
+### 📋 Language
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
+### 📚 Framework
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### 💾 Back-End Service
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
