@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Flutter (Dart, UI Building, etc), Firebase(Authentication, Storage, FireStore, etc)**
 
-- 📝 I regularly write articles on [https://velog.io/@pandapad10/posts](https://velog.io/@pandapad10/posts)
-
 - 💬 Ask me about **Flutter, Firebase**
 
 - 📫 How to reach me **pandapad10@gmail.com**
