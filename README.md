@@ -4,7 +4,7 @@
      
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seonho99&show_icons=true&locale=en&layout=compact" alt="seonho99" /></p>
      
-<p>&nbsp;<img align="center" src="https://github-readme-status.vercel.app/api?username=seonho99&show_icons=true&locale=en" alt="seonho99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seonho99&show_icons=true&locale=en" alt="seonho99" /></p>
      
 - 🔭 I’m currently working on project [LottoBlog](https://github.com/seonho99/lottoblog)
      
