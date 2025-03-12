@@ -6,9 +6,9 @@
      
 - 🔭 I’m currently working on project [LottoBlog](https://github.com/seonho99/lottoblog)
      
-- 🌱 I’m currently learning **Flutter (Dart, UI Building, etc), Firebase(Authentication, Storage, FireStore, etc)**
+- 🌱 I’m currently learning **Flutter (Dart, UI Building, etc), FireBase(Authentication, Storage, FireStore, etc)**
      
-- 💬 Ask me about **Flutter, Firebase**
+- 💬 Ask me about **Flutter, FireBase**
       
 - 📫 How to reach me **pandapad10@gmail.com**
      
